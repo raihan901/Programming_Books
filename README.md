@@ -10,5 +10,10 @@ git clone https://github.com/raihan901/Programming_Books.git
 ```
 # Books List
 
+- Agile softwate 
+- Angular
+- Docker
+- Express-js
+- Git
 - Golang
-- 
+- Javascript
