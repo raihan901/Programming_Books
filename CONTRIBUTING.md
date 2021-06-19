@@ -3,4 +3,4 @@
 - Clone your new repository to your system.
 - Add your new books.
 - Commit changes and push
-- Open and submit a PR.
+- Open and submit a Pull request
