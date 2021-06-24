@@ -37,7 +37,7 @@ git clone https://github.com/raihan901/Programming_Books.git
 [![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS and IMAGES -->
 
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
 [facebook-url]: https://facebook.com/raihan.mahmudi.50
