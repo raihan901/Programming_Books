@@ -28,7 +28,7 @@ git clone https://github.com/raihan901/Programming_Books.git
 - Software Development
 - Tdd-Bdd
 - Vim-Tmux
-- etc.
+- etc
 
 
 
