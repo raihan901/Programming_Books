@@ -6,6 +6,12 @@ This repo has a collection of programming books for various programming language
 
 # <a href="https://github.com/raihan901/Programming_Books/blob/main/CONTRIBUTING.md">Contribute's Guide</a>
 
+
+Join Telegram for more Golang books https://t.me/gobooksf
+
+![image](https://raw.githubusercontent.com/raihan901/Programming_Books/main/Golang/img/QR%20Code.png)
+
+
 ## Cloning Repository
 
 * Clone the repository
